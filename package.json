@@ -1,0 +1,21 @@
+{
+  "name": "koishi-plugin-iirose-self-cut",
+  "description": "\u0016IIROSE-[蔷薇花园](https://iirose.com/)切除媒体插件",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "license": "MIT",
+  "scripts": {},
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin"
+  ],
+  "peerDependencies": {
+    "koishi": "^4.16.0"
+  }
+}
